@@ -1,6 +1,6 @@
   
 title = "Because you gotta beg for disclosure!"
-baseURL = "https://example.com"
+baseURL = "https://begbounty.com"
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true

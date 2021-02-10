@@ -25,7 +25,8 @@ jobs:
         run: hugo --minify
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@latest
+        # need to use v3 here and not `latest`: https://github.com/peaceiris/actions-gh-pages/issues/566
+        uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public

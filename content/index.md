@@ -2,6 +2,8 @@
 title: "Because You Gotta Beg for Disclosure!"
 ---
 
+# Because You Gotta Beg for Disclosure!
+
 My name is Parsia Hakimian. I am a security engineer at
 [Electronic Arts](https://ea.com/security). This is where I (hopefully) collect
 my disclosed security issues.

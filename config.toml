@@ -1,5 +1,5 @@
   
-title = "Because you gotta beg for disclosure!"
+title = "Beg Bounty"
 baseURL = "https://begbounty.com"
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]
@@ -13,7 +13,7 @@ math = false          # enable KaTeX (https://katex.org/) globally
 #   logo = ""  # url or path to a logo to put in the header
   [params.footer]
     text = "Built with Hugo and the 'Researcher' theme by Olivier Roques"
-    url = "https://github.com/ojroques/hugo-researcher"
+    url = "https://github.com/parsiya/begbounty.com"
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
     pageWidth = "750px"
@@ -41,5 +41,5 @@ math = false          # enable KaTeX (https://katex.org/) globally
     url = "https://parsiya.net"
     weight = 3
 
-[markup.goldmark.renderer]
-  unsafe = true  # allow raw HTML in markdown files
+# [markup.goldmark.renderer]
+#   unsafe = true  # allow raw HTML in markdown files

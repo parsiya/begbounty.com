@@ -39,6 +39,7 @@ you want to hack it.
 * Details:
   [https://parsiya.net/blog/2021-12-20-rce-in-visual-studio-codes-remote-wsl-for-fun-and-negative-profit/][code-wsl-rce].
 * CVE page: [https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-43907][cve-2021-43907]
+* I got to the front page of HackerNews, mom: https://news.ycombinator.com/item?id=29635300
 
 [code-wsl-rce]: https://parsiya.net/blog/2021-12-20-rce-in-visual-studio-codes-remote-wsl-for-fun-and-negative-profit/
 [cve-2021-43907]: https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-43907

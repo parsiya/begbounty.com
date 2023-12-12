@@ -3,13 +3,12 @@ title: "Because You Gotta Beg for Disclosure!"
 ---
 
 # Because You Gotta Beg for Disclosure!
-My name is Parsia. I am a security engineer at
-[Electronic Arts](https://ea.com/security). This is where I (hopefully) collect
-my disclosed security issues.
+My name is Parsia. I am an independent security engineer/researcher. This is
+where I (hopefully) collect my disclosed security issues.
 
 I am not a proper bug bounty hunter, I'd rather play videogames in my spare
-time. Click on the link above to go to my
-[personal website](https://parsiya.net).
+time. Click on the link above to go to my personal website at
+[parsiya.net](https://parsiya.net).
 
 ## Chaining Three Bugs to Get RCE in Microsoft AttackSurfaceAnalyzer
 Write-up is at

@@ -43,3 +43,14 @@ you want to hack it.
 
 [code-wsl-rce]: https://parsiya.net/blog/2021-12-20-rce-in-visual-studio-codes-remote-wsl-for-fun-and-negative-profit/
 [cve-2021-43907]: https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-43907
+
+## AWS Original Malicious Exploit at https://awsome.pw
+It's a joke vulnerability. `Off-Off-Topic` is the everything goes chat channel
+from the good ole' Cigital. We can squat S3 bucket names to prevent people from
+deploying static websites.
+
+In short, you need to own the bucket `apple.com` to deploy it as a static
+website through S3. AWS bucket names are unique so you can hope someone else has
+not created it.
+
+I keep paying $15 a year for this domain because I like it.

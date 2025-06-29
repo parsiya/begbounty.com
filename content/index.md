@@ -20,14 +20,15 @@ Fix PRs:
 [asa]: https://parsiya.net/blog/2019-06-18-chaining-three-bugs-to-get-rce-in-microsoft-attacksurfaceanalyzer/
 
 ## CVE-2020-13621 - Websites Can Run Arbitrary Code on Machines Running the 'PlayStation Now' Application - $15,000
-Write-up is at https://hackerone.com/reports/873614. My first (and highest to
-date) bounty.
+Write-up at https://hackerone.com/reports/873614. My first "real" bounty.
 
 Unfortunately, the images do not show up in the summary because the rest of the
 report is not disclosed. However, the report goes through the whole discovery
 process and should give you enough information to find the same class of bugs.
 
 Note: The CVE is reserved but I never asked for assignment.
+
+Great explanation video by Bug Bounty Reports Explained YouTube channel: https://www.youtube.com/watch?v=97gPr9FdXzE
 
 ## CVE-2021-43907 - Remote Code Execution in Visual Studio Code's Remote WSL Extension
 Yet another open local WebSocket server. Open a website while running VS Code in
